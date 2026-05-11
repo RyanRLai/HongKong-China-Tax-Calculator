@@ -1,0 +1,18 @@
+# Keep rates reviewable. FX values are placeholders until the user fills
+# official RMB central parity rates in the generated workbook.
+mainland_individual_income_tax_rate: 0.20
+fx_rate_HKD: 1
+fx_rate_USD: 1
+fx_rate_CNY: 1
+fx_rate_CNH: 1
+fx_rate_AUD: 1
+fx_rate_CAD: 1
+fx_rate_CHF: 1
+fx_rate_EUR: 1
+fx_rate_GBP: 1
+fx_rate_JPY: 1
+fx_rate_NZD: 1
+fx_rate_SGD: 1
+note_01: Interest, dividends, and bonuses are modelled as classified income at 20%.
+note_02: Foreign tax credit is only applied when foreign income tax withholding is confirmed by evidence.
+note_03: FX rates are intentionally placeholders and must be reviewed before filing.
