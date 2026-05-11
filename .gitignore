@@ -1,0 +1,19 @@
+# Private source documents and generated reports
+inputs/
+outputs/
+*.pdf
+*.xlsx
+*.xls
+
+# Python caches and virtual environments
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.mypy_cache/
+.venv/
+venv/
+env/
+
+# Local configuration and system files
+.env
+.DS_Store
